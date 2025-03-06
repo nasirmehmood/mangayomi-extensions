@@ -4,7 +4,7 @@ Source get mangakakalotSource => _mangakakalotSource;
 
 Source _mangakakalotSource = Source(
   name: "Mangakakalot",
-  baseUrl: "https://mangakakalot.com",
+  baseUrl: "https://mangakakalot.gg",
   lang: "en",
   typeSource: "mangabox",
   iconUrl:
